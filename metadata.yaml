@@ -1,11 +1,16 @@
 _repo: A-Text-book-of-Entomology-Including-the-Anatomy-Physiology-Embryology-and-Metamorphoses-of-In__64677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64677-h/images/cover.jpg
 creator:
   author:
     agent_name: Packard, Alpheus S.
     gutenberg_agent_id: '53005'
     url: http://www.gutenberg.org/2009/agents/53005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64677#A-Text-book-of-Entomology-Including-the-Anatomy-Physiology-Embryology-and-Metamorphoses-of-In_
 gutenberg_issued: '2021-03-02'
 gutenberg_type: Text
 identifiers:
